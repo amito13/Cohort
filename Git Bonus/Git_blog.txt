@@ -1,0 +1,16 @@
+Git
+
+#what is git=> code tracking sw
+
+#problem without Git
+
+=>Code tracesibility - x
+=> Centralised storage of code - x
+=> changes tracking - x
+=> collabrative work - x
+
+#tech in git 
+=> linkedin
+.
+.
+.
