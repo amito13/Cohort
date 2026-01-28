@@ -54,3 +54,52 @@ This project is ideal for beginners who want to understand **HTML structure and 
   - Fresher
 
 - **Projects**
+  - **Quiz Maker**
+    - Built using React
+    - Online MCQ conducting platform  
+    🔗 Live Demo: https://quizmaker-tawny.vercel.app/
+  - **Todo App**
+    - Task creation, update, and completion
+    - Built using React  
+    🔗 Live Demo: https://deploymenttodo.vercel.app/
+
+- **Education**
+  - Bachelor of Computer Applications (BCA)
+
+- **Contact**
+  - X (Twitter)
+  - LinkedIn
+  - Email
+  - Phone number
+
+---
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository
+2. Open the `index.html` file in any modern web browser
+3. That’s it — no additional setup required
+
+---
+
+## 📈 Future Improvements
+
+- Add CSS for better UI and responsiveness
+- Add animations and transitions
+- Convert to a React-based resume
+- Improve accessibility and SEO
+
+---
+
+## 👤 Author
+
+**Amit Dewangan**  
+Aspiring Software Engineer | Full Stack Developer  
+
+- X: `@a98037_amit`  
+- LinkedIn: https://www.linkedin.com/in/amit-dewangan-a193b6319  
+- Email: dewanganamit40@gmail.com  
+
+---
+
+⭐ If you like this project, feel free to star the repository!
